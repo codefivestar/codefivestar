@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codefivestar
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in DBA and Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ Check my organization : CFS-Gamedev
 - 📫 How to reach me : codefivestar@gmail.com
