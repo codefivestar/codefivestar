@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codefivestar
+- 👋 Hi, I’m Hidequel Puga
 - 👀 I’m interested in DBA and Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ Check my repositories
