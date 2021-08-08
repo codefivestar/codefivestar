@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codefivestar
 - 👀 I’m interested in DBA and Game Development
 - 🌱 I’m currently learning Unity
-- 💞️ Check my organization : CFS-Gamedev
+- 💞️ Check my repositories
 - 📫 How to reach me : codefivestar@gmail.com
 
 <!---
