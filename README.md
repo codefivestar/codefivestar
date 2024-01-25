@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hidequel Puga
 - 👀 I’m interested in DBA and Game Development
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Godot
 - 💞️ Check my repositories
 - 📫 How to reach me : codefivestar@gmail.com
 
